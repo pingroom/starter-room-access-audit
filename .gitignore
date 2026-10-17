@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.pingroom/
+.audit/
+/policy.json
+*.log
+.DS_Store

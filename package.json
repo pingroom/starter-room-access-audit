@@ -1,0 +1,17 @@
+{
+  "name": "pingroom-starter-room-access-audit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Compare a private room's current human roster against an explicit access policy.",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node src/main.js",
+    "connect": "node src/connect.js",
+    "inspect": "node src/inspect.js",
+    "demo": "node src/demo.js",
+    "test": "node --test"
+  },
+  "dependencies": { "@pingroom/sdk": "0.6.0" },
+  "license": "MIT"
+}

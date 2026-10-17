@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "roomId": "3d60c74a-925f-4c23-a13a-1cb3bf0396d8",
+  "expectedMembers": [
+    { "userId": "a89fbac6-a02f-4848-a3b7-94c47184a537", "role": "owner" },
+    { "userId": "e1d0375b-9042-42d8-82ac-c61b6c4b7738", "role": "member" }
+  ]
+}
